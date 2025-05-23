@@ -32,6 +32,6 @@ A production-ready fraud detection pipeline using real-world transaction data.
 
 - [🔗 LinkedIn] - https://www.linkedin.com/in/tyrese-t-bb8b53197/
 - [📬 Email] - Mrtthomas2@icloud.com
-- [📁 GitHub Portfolio] - 
+- [📁 GitHub Portfolio] - https://github.com/ty4kt/Final-Project-
 
 Thanks for visiting! 👇 Scroll down to check out some of my work.
